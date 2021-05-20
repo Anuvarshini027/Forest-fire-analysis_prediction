@@ -13,7 +13,7 @@ ML models used:
   3) Linear Regressor
   4) Ridge Regressor
 
-Regressor models are used since the data is continous.
+Regressor models are used since the data is continuous.
 
 Kindly, download the file to view the code in .ipynb format.
 The analysis part is given in both Scala(Spark) and Python.
